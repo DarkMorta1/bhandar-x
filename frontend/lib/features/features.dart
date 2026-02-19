@@ -1,0 +1,13 @@
+export 'auth/auth.dart';
+export 'dashboard/dashboard.dart';
+export 'products/products.dart';
+export 'sales/sales.dart';
+export 'purchases/purchases.dart';
+export 'stock/stock.dart';
+export 'customers/customers.dart';
+export 'suppliers/suppliers.dart';
+export 'reports/reports.dart';
+export 'settings/settings.dart';
+export 'profile/profile.dart';
+export 'more/more.dart';
+export 'main_shell/main_shell.dart';
